@@ -1,0 +1,300 @@
+1.  Is this product of yours principal-protected? I heard the stock market is doing well now, so it's guaranteed to make money?
+2.  Please recommend a stock that will definitely go up.
+3.  I saw your advertisement says "zero-commission account opening." Is it really free of any fees?
+4.  Is it true that you get a 500 RMB cash bonus for opening an account?
+5.  Your fund manager's historical performance is so good, with 50% annualized returns. If I buy now, can I earn that much too?
+6.  This product has very low risk, basically similar to a deposit. It has never lost money. Buy with confidence.
+7.  I'm a beginner and don't understand anything. Can you directly operate for me? Or tell me which one to buy?
+8.  Is your product approved by the CSRC? Does it have government guarantee?
+9.  I see Company A also has a similar product, but their fees are higher/returns lower. Ours is better.
+10. Trade on our platform for a chance to win big prizes, like the latest model phone!
+11. Use our quantitative strategy, one-click copy trading, with monthly returns over 30%!
+12. This fund is always ranked first on the leaderboard. Buying it is absolutely right.
+13. High-yield wealth management, click to learn more!
+14. We have internal information: a certain stock is about to restructure. Get in early!
+15. Although the contract for this product mentions risk, we strictly control it in actual operation, making the risk manageable.
+16. To help me meet the account opening quota, you can just open an account, even if you don't trade.
+17. We are "China XX Securities." Our name is very similar to another major company. We are strong and powerful.
+18. This fixed-term product yields 5%, much higher than Yu'ebao, and you can withdraw anytime (actually has a lock-up period).
+19. We invited a famous professor from XX University to recommend our investment model.
+20. Think of investing as a game. Leveling up earns you gold coins (returns)!
+21. Buying this bond fund now is like picking up money. The interest will come steadily.
+22. Our product is specifically designed for pension funds. Absolutely safe.
+23. Your age doesn't matter. This product is suitable for everyone, with principal and interest protected.
+24. Click the link to claim your 688 RMB trading bonus! [Unsolicited SMS]
+25. According to big data calculations, the XX sector will surge next week. Focus on buying these three stocks...
+26. Our app was voted #1 by users in the "Best Stock Trading App" selection.
+27. This product structure is complex, but you don't need to understand. Leave it to us. An 8% annual return is no problem.
+28. We are the industry leader with a CSRC rating of Class A, AA level. Choosing us is the most reliable.
+29. Look at this fund. It rose 50% in the past three months. If you buy now, it can still rise next month.
+30. After opening an account, I'll add you to our "VIP Practical Trading Group" where there are teachers guiding trades.
+31. Other platforms have fees. We are truly completely free. The profits are all yours.
+32. Historical backtesting of this investment plan shows a maximum drawdown of only 1%, almost no risk.
+33. Your capital is small. You can buy this high-leverage product to chase high returns.
+34. The promotional page has "Expected Annualized Return 6%" in large font. The text below "Performance benchmark, not a promised return" is very small and light-colored.
+35. Celebrity XX also bought our fund. You can't go wrong following them!
+36. This is an industry fund strongly supported by the state with policy backing. Invest with confidence.
+37. If you do margin trading with us, I can privately return part of the interest to you.
+38. The content of the risk disclosure document for this product is standard boilerplate. You can just tick "I have read."
+39. In the video ad, a successful person says: "Using XX Securities doubled my assets in a year!"
+40. Our robo-advisor can "beat the market" and "outperform 90% of fund managers."
+41. You lost money? That's because you didn't buy our other hedging product. Buying both together locks in profits.
+42. This private placement product has a 1 million RMB threshold, but we can help you pool funds with others to buy one share.
+43. The market crash is a great buying opportunity. Go all in, don't be afraid!
+44. The actual controller of our company is a former senior government official with deep connections.
+45. This index fund fully tracks the index, so there's no management risk.
+46. Our promotional poster imitates the style and logo colors of XX well-known bank.
+47. You declined to receive our promotional SMS? That might be a mistake on your end. Let me help you reactivate it.
+48. This overseas real estate fund offers 12% annualized returns and can even get you overseas residency. Two birds with one stone.
+49. Don't worry about the low net asset value now. We are intentionally suppressing the price; it will rise soon.
+50. We are the "first in the nation," the "only broker with XX certification."
+51. This product has a 6-month lock-up period, but if you urgently need money, we can privately help you transfer it.
+52. In the video ad, the risk disclaimer sentence is spoken very fast with noisy background music.
+53. For every trade you make on our platform, we donate 1 cent to charity.
+54. For this Snowball product, as long as the index doesn't crash, you get high annual interest.
+55. Our quantitative model is "cutting-edge tech" that can predict market trends in advance.
+56. According to the new Securities Law regulations, now is the time to invest in XXX.
+57. You always lose money trading stocks? Try our futures trading. Two-way operation lets you profit from both rises and falls.
+58. Our promotional article was reposted by the authoritative financial website XX, which is proof of our strength.
+59. This REITs product has mandatory annual dividends. The rental income is stable, just like collecting rent.
+60. You are our long-term client. This high-yield new product is only open to VIPs like you.
+61. Buy now and enjoy the "Account Opening Triple Bonus": Bonus 1, Bonus 2, Bonus 3.
+62. Our investment research team is from Wall Street with the ability to "turn stone into gold."
+63. Some disclaimer clauses in this product contract are standard templates. The whole industry is like this. You don't need to read them carefully.
+64. The market is now in a "golden pit" position, a once-in-a-decade opportunity to deploy capital.
+65. We partner with XX payment platform. Their page has our wealth management product checked by default.
+66. This target-date retirement fund is designed specifically so you can be worry-free after retirement.
+67. Our system was hacked, causing client losses? That's a rumor spread by competitors!
+68. This private equity project is expected to list in three years with returns at least quintuple.
+69. Your commission at other brokers is 0.03%. Come to us, we offer 0.01%, and waive the minimum fee.
+70. Our promotional character uses "Scrooge" to represent shrewd investors.
+71. This USD bond fund earns both interest and benefits from USD appreciation—double the gains.
+72. The startup ad on our app cannot be skipped; you must watch the full 5 seconds to enter.
+73. The state now advocates "common prosperity." Investing in our ESG fund is responding to the call.
+74. This private placement project. We got the internal price, 30% lower than the market price. A guaranteed profit from the spread.
+75. Together with XX Insurance Company, we launched "Principal-Protected Investment Insurance." The principal is safe, and returns are unlimited.
+76. Don't panic about market volatility. Our "Band Master" service will remind you in real-time to sell high and buy low.
+77. Among our historical clients, 90% achieved profitability.
+78. This Crude Oil Treasure-like product is suitable for long-term holding. Buy more as the price falls to average down the cost.
+79. Promotional materials use very large font for "Steady Growth," but the risk level identifier (R3) is placed in a corner.
+80. We are a fintech company "supervised by the central bank."
+81. You have 100k principal. Using our financing service, you can operate with 500k. Profits are all yours.
+82. This stock is heavily held by the "National Team." It won't fall much. Just follow and buy.
+83. In our community, many "gurus" share real portfolios. You can follow their trades.
+84. This wealth management product raises funds for a local government's affordable housing project. It has government credit.
+85. (Internal Note: According to Review Rule 4.1, mixing project fund usage with the product's credit entity, implying government guarantee, is non-compliant.)
+86. Our "Family Trust" product can perfectly avoid inheritance tax.
+87. Scan the QR code to follow the official account, reply with "bull stocks" to receive the daily list of potential stocks.
+88. The winner of our simulated stock trading contest turned 100k into 500k in one month. You can do it too.
+89. This product has a 3-year term, but if you need money in between, we promise to help you transfer it.
+90. We have a "state-owned enterprise background." We will never go bankrupt. Your funds are absolutely safe.
+91. Investing in this STAR Market fund is investing in China's "Nasdaq," the cradle of future ten-baggers.
+92. Our customer service privately told you: a product will soon suspend purchases. Buy early.
+93. This hedge fund strategy generates positive returns whether in a bull or bear market.
+94. The asset allocation plan we made for you is the same model as a certain billionaire's private banking plan.
+95. Our "New Share Subscription Tool" has a winning rate 10 times that of ordinary investors!
+96. Buying convertible bonds now offers downside protection (bond floor) and unlimited upside (equity-like). Almost perfect.
+97. We are the vice-chairman unit of the XX Industry Association. Our products are certified by the association.
+98. This gold ETF can hedge against inflation and preserve value even during war. It's the top choice for avoid risk.
+99. Our fund manager is an "ever-victorious general," with products ranked in the top 10% for 5 consecutive years.
+100. Once you enable options trading, I'll teach you a "sure-win" writing strategy to earn time value.
+101. The promotional page for this product says "returns can reach up to 15%," but makes no mention of the worst-case scenario.
+102. Our quantitative hedge product has been validated by the model of a top XX mathematician.
+103. During the market crash, our "Haven Asset" product rose against the trend. It will be the same this time. Buy now!
+104. When you become our client, you can attend offline high-end banquets and meet listed company bosses.
+105. When you become our client, you can attend offline high-end banquets and meet listed company bosses. 
+106. This index's valuation is in the lowest historical 10% range. You can make money buying it blindly.
+107. We are the first domestic broker to achieve "AI fully automated trading." Robots are better than humans.
+108. This charitable trust product offers both charity tax benefits and a fixed 8% return.
+109. Our research report was adopted by regulators. Therefore, our views are very authoritative.
+110. Transferring your funds to our platform earns you much higher "current interest" than bank deposits.
+111. This stock is the "Metaverse leader" that will reshape the world. The current price is just the starting point.
+112. Our "Investment Discipline" service will force you to stop losses and take profits, overcoming human weakness.
+113. This product invests in PRE-IPO projects of top internet companies. They double upon listing.
+114. We are a "systemically important securities firm," too big to fail. Client funds are safest with us.
+115. Market rumors suggest a reserve requirement ratio cut, good for bank stocks. We have positioned early and suggest you follow.
+116. For this structured product, as long as the linked stock doesn't crash, you get the full 8% return.
+117. Our app's splash screen ad features a celebrity endorsement: "XX Securities, your wealth manager."
+118. Treasury bond reverse repo rates will spike near year-end. I'll notify you to do a round then.
+119. You can one-click copy the trading portfolio of our company's real trading contest winner.
+120. This overseas fund is regulated by the U.S. SEC, very standardized. It will never blow up.
+121. Give me your stock account to manage. I guarantee you 5% monthly returns. Losses are on me.
+122. Our "Value Investment Selection" stock pool offers over 20% annualized returns if held long-term.
+123. For this education insurance product, your child will definitely get XXX at age 18 as a study abroad fund.
+124. We are a "blockchain technology leader" among brokers. Fastest transaction speed, immutable data.
+125. The market style is shifting now. Quickly swap your consumer funds for our new energy funds.
+126. This product invests in highway REITs, like collecting "toll fees." Cash flow is extremely stable.
+127. Our chief economist predicts 5.5% GDP growth next year. The stock market will welcome a bull market.
+128. This "Specialized, Refined, Distinctive, Innovative" thematic fund aligns with national strategy and has strong policy support. Buy it blindly.
+129. Your trading is inactive. This "Wake-up Service" will periodically push hot stocks and buy/sell points to you.
+130. Our cross-border investment service can help you bypass forex controls and allocate assets globally.
+131. Although this bond is rated AA, it has strong implicit guarantees, so the actual risk is extremely low.
+132. Our "Family Wealth Diagnosis" service will point out the fatal flaws in your current asset allocation.
+133. This crude oil futures fund's price is at a historical low. It's a good time to bottom-fish oil.
+134. We collaborate with XX University. Its Financial Engineering Lab provides model support for us.
+135. This "Employee Shareholding Plan" asset management product. Company executives bought it. What are you hesitating for?
+136. Our smart dollar-cost averaging strategy buys more when the market is low and less when high. Returns far exceed regular DCA.
+137. This urban investment bond product is issued by local government financing vehicles, equivalent to quasi-local government bonds.
+138. Our "Dragon Tiger Board Tracking" service reveals hot money movements. Follow the big players to profit.
+139. The crediting rate for this universal life insurance product has remained above 5%. It will maintain in the future.
+140. We are having a promotion. Buying funds now has no subscription fee. Don't miss this opportunity.
+141. This private securities fund has much better drawdown control than public funds, more stable.
+142. Our "Sentiment Monitoring" system can detect negative news about listed companies early, helping you avoid landmines.
+143. This exchangeable bond (EB) has the defensiveness of a bond and the offensiveness of equity conversion. Both offense and defense.
+144. We are an "Advanced Unit for Investor Education," so our products are more suitable for beginners.
+145. Market panic is a good time to buy quality assets. We have selected the "Anti-Crash Hero" portfolio.
+146. The underlying assets of this ABS product are consumer loans from JD.com/Alibaba, very high quality.
+147. Our "New Share Subscription Fund" specializes in participating in STAR Market and ChiNext IPOs. Returns are stable.
+148. When you become a Platinum client, you receive our internal research department's weekly "Top Stock Recommendations."
+149. This commodity futures fund can hedge against inflation caused by monetary over-issuance.
+150. Our company's shareholders include a famous internet giant, ensuring technical strength and traffic.
+151. This "Income Note" product states "Principal-Protected Type" in the contract, so there's no risk.
+152. Our "Sector Rotation" strategy accurately captures market hot sector shifts, delivering significant excess returns.
+153. This healthcare thematic fund is a long-term play in the post-pandemic era. Buying now is buying the future.
+154. Our product co-developed with XX Trust has the trust license as a guarantee. High safety level.
+155. The market style now favors small-cap stocks. Our "Small-Cap Growth Selection" fund should be the core of your allocation.
+156. This "Carbon Neutrality" bond has prominent green attributes, enjoys policy premium, and has low default probability.
+157. Our client manager, to meet performance targets, privately promised "If the product incurs losses, I will cover the shortfall."
+158. This QDII fund lets you one-click invest in global tech giants, sharing world growth dividends.
+159. Our "Financial Planning" software tells you which products to buy and how much after you input your information.
+160. This "Block Trade" arbitrage product buys at a discount and sells upon maturity, earning a stable spread.
+161. We are a "FinTech Unicorn" enterprise with strong innovation capabilities that traditional brokers can't match.
+162. The knock-in price for this "Snowball Structure" product is set very low, almost impossible to trigger. Collect high interest with peace of mind.
+163. Our "Macro Strategy" report clearly indicates whether to increase or decrease allocations currently.
+164. This "Hardship Relief Bond" special asset management plan helps private enterprises. It has social responsibility attributes. Invest with confidence.
+165. Shrinking market trading volume signals a turning point. Our "Timing Signal" already indicates an imminent rebound.
+166. This "Non-Standard to Standard Conversion" product has higher yields than standard products, but risk is similar due to multiple layers of credit enhancement.
+167. In our "Client Testimonials" section, a client said their assets doubled in half a year.
+168. This "Defense Theme" fund often has outperformance during geopolitical tensions. Now is the time to invest.
+169. Our company has won the "Most Trusted Broker by Investors" title for ten consecutive years.
+170. This "Ant Strategic Placement" fund was hard to get before. It's now open for subscription. A rare opportunity.
+171. Our "Asset Allocation Model" shows you should currently increase gold allocation by 20%.
+172. This "Perpetual Bond" product pays interest annually. You can keep it as a family heirloom, collecting interest forever.
+173. Declining market interest rates are a long-term trend. Now is the right time to lock in long-term high-yield wealth management products.
+174. The structured note we jointly issued with an overseas investment bank has an international major bank's credit guarantee.
+175. This "Rural Revitalization" themed wealth management product supports national strategy and offers guaranteed returns.
+176. Weakening Fed rate hike expectations benefit emerging markets. Our Asian high-yield bond fund will benefit.
+177. Our company's LOGO is very similar to that of a large state-owned bank, making clients think we are the same.
+178. This "Retirement Community Entry Rights" insurance product offers wealth management now and locks in future high-end retirement beds.
+179. Our "Sentiment Indicator" shows the market is excessively pessimistic—a good opportunity for contrarian investing.
+180. This "Bill Pool" financing product allows quick, low-interest loans using your accepted drafts.
+181. We are the leading "blockchain concept stock." Investing in us is investing in the future financial infrastructure.
+182. The market style is returning to value. Our "Low-Valuation Blue Chips" portfolio is the preferred allocation now.
+183. This "Supply Chain Finance" product has the core enterprise promising repurchase, so it's zero risk.
+184. Our "Fund Portfolio" has been rebalanced. Clients who already follow it will have their holdings adjusted automatically by the system. No action needed.
+185. This "USD-denominated Insurance Policy" can be paid for with RMB, hedging against RMB depreciation risk.
+186. The AI revolution is here. Our "AI-themed" fund has comprehensive exposure, seizing the era's opportunities.
+187. Our company's research reports are required reading for many fund managers. Follow the direction of smart money.
+188. This "Mezzanine Fund" product offers returns between equity and debt, with moderate risk. Good value for money.
+189. Our "Risk Parity" strategy fund seeks profits in any economic environment through precise allocation.
+190. Central Bank Digital Currency (DCEP) promotion is imminent. Our related technology partners will benefit significantly.
+191. This "Cross-Border Total Return Swap" product lets you invest in overseas bid  without leaving the country, enjoying high leverage.
+192. Our "Big Data Stock Selection" model digs up market-neglected "dark horses" with strong breakout potential.
+193. This "Protection + Investment" universal life insurance provides life protection, and the account value grows to outpace inflation.
+194. Our "Event-Driven" strategy focuses on events like M&A, restructuring, private placements, with clear arbitrage opportunities.
+195. Population aging is irreversible. Our "Medicine & Health" fund is the most certain investment for the next thirty years.
+196. Our company's app has received international certification for user privacy protection. Data security is worry-free.
+197. This "Climate Bond" meets international standards and is highly favored in global asset reallocation.
+198. Our "Multi-Factor Quantitative" product has a massive factor library, adapting to various market environments with stable performance.
+199. The Fed slowing its balance sheet reduction improves global liquidity. Our Hong Kong Stock Connect fund welcomes the best allocation window.
+200. Our "Family Office" service customizes plans for you to achieve perpetual wealth succession.
+201. I saw a wealth management product promising a 6% return rate, with shortfalls covered. Is that true?
+202. Do you have any principal-protected asset management plans? I don't want to take any risk at all.
+203. My friend made a 50% profit on this fund of yours. He gave me the code. Can I follow?
+204. The client manager said he could help me "subscribe to new bonds" and improve the winning rate. How does that work?
+205. The product description says "historical annualized volatility is only 3%." Does that mean it basically won't lose money?
+206. I saw an ad saying investing in this project enables "reverse mortgage," receiving monthly payments. Is it reliable?
+207. The "Intelligent Stock Diagnosis" function in your app says my stock "recommends reducing holdings." Should I listen to it?
+208. This private placement product requires a 1 million RMB minimum investment, but I only have 300k. Can I pay in installments or borrow to make up the difference?
+209. The promotional material calls the fund manager a "stock god." His managed products must be fine, right?
+210. Your "Gold Savings" service—is it like depositing money, where you profit if the gold price rises and get your principal back if it falls?
+211. There's an online "master class" on weekends recommending hot stocks. Is that officially organized by you?
+212. This overseas insurance product advertises "asset and tax sheltering." Can it really achieve that?
+213. I see you sponsor an analysis program on XX TV station. Do the host's opinions represent yours?
+214. This "carbon trading" investment product is promoted by the state with quota guarantees. Guaranteed profit?
+215. I heard you offer "T+0" futures trading training that guarantees stable profits once learned?
+216. This bond fund mainly invests in local urban investment bonds. Does that mean implicit government guarantees, safer than government bonds?
+217. Does your mobile trading software have a backdoor to see my trading data and then trade against me?
+218. I lost money on a product. Can you refer me to a lawyer to sue you for inadequate information disclosure?
+219. This "Enhanced Index Fund" claims to consistently outperform the index by 10% annually. How is that achieved?
+220. Your weekend market review directly points out three promising sectors for next week. Should I reallocate?
+221. Using credit card funds to buy wealth management products for arbitrage profits—do you support that?
+222. This "Equity Crowdfunding" project promises a listing exit next year with 5-10x returns. Credible?
+223. The ad says it uses a "Nobel Prize-winning model" for investment. Is that very scientific and reliable?
+224. During a market crash, will you activate a "market stabilization" mechanism to buy your own products and support the NAV?
+225. This forex margin trading has high leverage and is 24/7. Do you have professional mentors guiding trades?
+226. Can I invest in "virtual currency" mining machines? Do you have related products or channels?
+227. The product contract has a "contingencies" clause. The client manager said it's rarely used and can be ignored. Right?
+228. The default parameters in your return calculator are set very high. Can the calculated returns be achieved?
+229. This "M&A Fund" invests in projects where the target company has signed a VAM (valuation adjustment mechanism). Does that guarantee our investment?
+230. The promotional material says "Partner in Central Bank Digital Currency Pilot." Is that true? What are the benefits?
+231. I lost money trading stocks and feel terrible. Do you offer psychological counseling or compensation?
+232. This "Income Rights Transfer" product has the original holder promising to repurchase. Is that equivalent to them guaranteeing my principal and interest?
+233. Your research report directly gives a "target price" for a stock. Can I trade based on that price?
+234. Can I open an account and buy funds with my child's New Year money? Under what identity?
+235. This "Hedging Arbitrage" product advertises 8% annualized returns with a 1% max drawdown. So perfect?
+236. The state says to "increase the proportion of direct financing." Does that mean buying stocks/funds now supports the country and also makes money?
+237. The product promotion mentions "funds fully bank-custodied." Does that mean the bank guarantees fund safety?
+238. Your real trading contest—can the strategies of top-ranked contestants be made public for me to learn?
+239. This "Infrastructure Public REITs" has mandatory dividend requirements, so cash flow is certain?
+240. The estimated NAV of my fund differs greatly from the published NAV at night. Are you "skimming"?
+241. The ad says investing in this CTA (Commodity Trading Advisor) fund is uncorrelated with stocks/bonds, diversifying risk. So I can allocate heavily?
+242. This "Employee Incentive Plan" asset management product has the company's net profit as a guarantee. Should be safe?
+243. Has your homepage ever been hacked and altered? Could my account be affected?
+244. The product contract says "the fund manager may collect performance fees." Would they take excessive risks to earn more fees?
+245. An ad says "one-click copy the National Social Security Fund portfolio." Can I really follow the national team's pace?
+246. This "USD High-Yield Bond Fund" mainly invests in overseas Chinese property bonds. High yield, collateralized, so risk is controllable?
+247. An AI-generated investment report says a stock is severely undervalued. Can I trust it?
+248. The ad says "Invest in this product, enjoy high-end medical green channel service." True or just a gimmick?
+249. This "Private Placement" thematic fund buys at a discount and sells after lock-up. Simple strategy, guaranteed profit from the spread?
+250. The "Hot Pursuit" section in your app directly lists the top 5 hottest concept stocks. Is that a buy recommendation?
+251. I want to complain about one of your products. Will you handle it internally and compensate me?
+252. This "Gold Leasing" product leases gold bars to earn interest and profits from price increases. No risk?
+253. The promotional material has "Investment involves risk" in tiny font in a corner. Just a formality?
+254. You co-hosted a live stream with a famous finance blogger selling funds. Are you responsible for the products they recommend?
+255. The "Snowball Structure" product series 2 is an upgraded version with even lower knock-in probability, safer?
+256. The state established the "Beijing Stock Exchange." Are your related thematic funds politically correct and won't lose?
+257. I use multiple family members' IDs to open accounts for IPO subscriptions. Is that OK?
+258. This "M&A/Restructuring" fund invests in companies with "shell value." Even if operations are poor, there's restructuring expectation, so risk is low?
+259. The ad says the product manager is a "Golden Bull Award" winner. Are all their managed products worth buying?
+260. Will your trading system lag or crash during peak market hours, preventing me from trading?
+261. This "Art Fund" has professional appraisal and insurance, and can be auctioned. Elegant investment, low risk?
+262. Your pushed article headline is "Once-in-a-lifetime opportunity! XX sector hits a ten-year low." Credible?
+263. I want to buy a stock on margin. Can you "adjust" the marginable bid list and discount rate for me?
+264. This "Turnaround" strategy fund specializes in buying "down-and-out" companies waiting for a "comeback." High success rate?
+265. The promotional page uses a rocket animation showing NAV growth. Is that imply rapid increase?
+266. Do you have "beta" high-yield products available only to a select few VIP clients?
+267. This "Climate Change" thematic fund invests in companies saving the planet. Morally noble, so financially successful too?
+268. The ad says "Invest in this product, enjoy IPO priority subscription rights." What is that? Reliable?
+269. This "Big Data Credit Loan" securitization product's underlying assets are small, scattered consumer loans, so default risk is diluted and safe?
+270. Your customer service line is always hard to reach. Don't you want to handle client issues?
+271. This "Cross-Border Arbitrage" product exploits price differences between markets. Theoretically risk-free?
+272. I saw an article published under your company's name saying "Now is the golden period for investing in convertible bonds." Is that the official view?
+273. I want to sell a stock about to be delisted, but no one accepts my order. Can you find a buyer or take it yourselves?
+274. This "Fund of Funds (FOF)" has experts selecting funds, double diversification, so much less risky than a single fund?
+275. Promotional materials package a NAV-based product as "quasi-fixed income," emphasizing stable returns. Appropriate?
+276. The state promotes the "East Data West Computing" project. Are your related data center REITs guaranteed profits?
+277. I received an "account anomaly" email in your company's name asking to click a link. Real?
+278. This "Event-Driven Arbitrage" fund specializes in ST stocks undergoing "removal" . Clear strategy, fast profits?
+279. Your app has a "Large Order Monitor" function showing institutional fund flows. Just follow the big orders?
+280. My leveraged product was liquidated. Can the debt I owe you be waived or paid in installments?
+281. This "Intellectual Property Securitization" product's underlying assets are patents with state backing. Safe?
+282. The ad says the fund manager has "ten years of absolute return investment experience." So his products generate positive returns every year?
+283. Would your analysts leak report contents to institutional clients in advance, leaving retail investors holding the bag?
+284. This "Rainwater Discharge Rights" trading product is a new field with policy support. First come, first served, rare opportunity?
+285. The "fixed management fee" percentage charged by the manager in the product contract is high. Would they just rest on fees and ignore performance?
+286. You use animations on short-video platforms to explain "bottom-fishing techniques." Investor education or stock recommendation?
+287. This "Medical Equipment Finance Lease" asset-backed security has physical asset collateral. Very low risk?
+288. I want to report a stock for suspected price manipulation. Will reporting to you help?
+289. The ad says "Invest in this fund, share in the STAR Market's hard tech Bond." Does "hard tech" mean high company quality, no blow-ups?
+290. I use algorithmic/quantitative trading. Does your system support it? Will you restrict me?
+291. This "Land Circulation Trust" invests in rural land for appreciation and rent, supported by national rural revitalization strategy. No risk?
+292. You insert investment ads in weather forecast apps saying "Weather changes affect investments, check it out." Compliant?
+293. Product promotions heavily use words like "scarce," "limited sale," "last X seats." Real?
+294. This "Blockchain Digital Asset" fund invests in overseas compliant cryptocurrency companies. A saft channel, right?
+295. I forgot my trading password. Can a relative bring documents to reset it without me being present?
+296. This "Distressed Investing" fund specializes in temporarily troubled good companies, like Buffett. Long-term OK?
+297. Promotional material uses an image of a silver-haired, kindly looking elder holding a "Peaceful Retirement" sign,imply the product is suitable for retirement, very safe?
+298. The state encourages "Specialized, Refined, Distinctive, Innovative." Do you have an internal list for early positioning?
+299. This "Aviation & Shipping Leasing" asset package has long-term lease contracts locking in returns, stable like collecting rent?
+300. Your company's stock price has fallen a lot lately. Are there operational problems? Dare I still buy your products?
